@@ -33,7 +33,9 @@ Finalmente, para cada animal, mediante scraping, se han obtenido entre 120 y 140
 En la siguiente tabla se detallan los parámetros a optimizar para obtener el modelo que realice las mejores clasificaciones posibles:
 
 
-
+ 
+ 
+ 
 <img src="tabla.png"/>
 
 Como son muchos los parámetros a optimizar, donde cada campo en muchos casos tiene varios valores posibles, se va a ir optimizando cada parámetro de manera individual e independiente. Esto proporcionará una ligera idea de cuál es el mejor valor para cada parámetro. Con las pruebas iniciales, se ha podido observar que los valores más adecuados para la tasa de aprendizaje se encuentran entre 10^-4 y 10^-3 y respecto al número de épocas el valor más adecuado es 12. El orden con el que se van a optimizar los parámetros es en primer lugar el parámetro asociado a la normalización y transformaciones individuales, después el optimizador, a continuación, la función de perdida y después el batch_size.
