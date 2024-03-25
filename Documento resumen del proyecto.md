@@ -29,7 +29,7 @@
 <h3>Separación de imágenes</h3>
 Finalmente, para cada animal, mediante scraping, se han obtenido entre 120 y 140 imágenes. Estas imágenes para cada animal se han dividido en tres conjuntos. Un conjunto de entrenamiento con alrededor de 85-90 imágenes para cada animal, un conjunto de test con alrededor de 20 imágenes para cada animal y un conjunto de validación con alrededor de 20 imágenes para cada animal también. 
 
-<h3>parámetros a optimizar</h3>
+<h3>Parámetros a optimizar</h3>
 En la siguiente tabla se detallan los parámetros a optimizar para obtener el modelo que realice las mejores clasificaciones posibles:
 
 <img src="tabla.png"/>
