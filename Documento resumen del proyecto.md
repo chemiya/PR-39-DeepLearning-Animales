@@ -33,7 +33,7 @@ Finalmente, para cada animal, mediante scraping, se han obtenido entre 120 y 140
 En la siguiente tabla se detallan los parámetros a optimizar para obtener el modelo que realice las mejores clasificaciones posibles:
 
 <br></br>
-<br></br>
+
  
  
  
